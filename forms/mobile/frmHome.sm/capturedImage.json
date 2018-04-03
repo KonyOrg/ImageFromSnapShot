@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "85dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "127dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s00643bd05364b3a9a287b75a0b33923",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "string",
+        "value": "372dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "105dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmHome",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "capturedImage",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "4e575ba60af54c30b7978a5fecb7df4e",
+    "name": "kony.ui.Image2",
+    "parent": "frmHome",
+    "pf": "frmHome",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

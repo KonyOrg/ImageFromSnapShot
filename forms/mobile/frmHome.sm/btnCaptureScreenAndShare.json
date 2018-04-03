@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0e2b27c74254d77b3813bb13fbf82f3",
+    "_text_": "Capture And Share",
+    "_top_": {
+        "type": "string",
+        "value": "271dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s33b2de5ecbd4b5fb9202b30c385abce",
+    "id": "btnCaptureScreenAndShare",
+    "ide_onClick": "AS_Button_7330e3ccedda4e599be5f83d333526c9",
+    "info": null,
+    "isvisible": true,
+    "kuid": "af5cd6bab4f84cf5bf9f19bea147256f",
+    "name": "kony.ui.Button",
+    "parent": "frmHome",
+    "pf": "frmHome",
+    "wType": "Button",
+    "zindex": 1
+}
